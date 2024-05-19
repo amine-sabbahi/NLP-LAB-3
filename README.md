@@ -47,7 +47,7 @@ The preprocessing steps include:
 
 ## Encoding Techniques
 
-We used the following techniques to encode the text data:
+I used the following techniques to encode the text data:
 - Bag of Words (BoW)
 - TF-IDF
 - Word2Vec (CBOW and Skip Gram)
@@ -68,7 +68,7 @@ The following models were trained and evaluated:
 
 ## Evaluation Metrics
 
-We evaluated the models using:
+I evaluated the models using:
 - **Regression Metrics:**
   - Mean Squared Error (MSE)
   - Root Mean Squared Error (RMSE)
@@ -92,18 +92,18 @@ We evaluated the models using:
 
 ## Conclusion
 
-This lab provided a comprehensive overview of various NLP techniques and word embedding models. We learned how to preprocess text data, represent words as dense vectors, and train and evaluate different machine learning models. These techniques are crucial for numerous NLP applications, including sentiment analysis and document classification.
+This lab provided a comprehensive overview of various NLP techniques and word embedding models. I learned how to preprocess text data, represent words as dense vectors, and train and evaluate different machine learning models. These techniques are crucial for numerous NLP applications, including sentiment analysis and document classification.
 
 ## Repository Structure
 
-- `data/`: Contains the datasets used in the lab.
-- `notebooks/`: Contains Jupyter notebooks with code for each part of the lab.
-- `results/`: Contains the evaluation results of the models.
+- `Datasets/`: Contains the datasets used in the lab.
+- `NLP LAB 3.ipynb`: Contains Jupyter notebook code for each part of the lab.
+- `Synthesis LAB 3 (NLP).pdf`: Contains a brief synthesis about what I learned during the process of this lab.
 - `README.md`: This file.
 
 ## Author
 
-- **SABBAHI Mohamed Amine**
+- **SABBAHI Mohamed Amine** - AI and Data Science student.
 
 ## Acknowledgements
 
