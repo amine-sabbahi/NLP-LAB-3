@@ -120,9 +120,9 @@ This lab provided a comprehensive overview of various NLP techniques and word em
 ## Instructions
 
 1. Clone the repository.
-2. Ensure you have the necessary libraries installed (see `requirements.txt`).
-3. Run the notebooks in `notebooks/` to reproduce the results.
+2. Ensure you have the necessary libraries installed:
+```
+pip install pandas numpy scikit-learn nltk gensim
+```
+3. Run the notebooks using Jupyterlab or kaggle to reproduce the results.
 
-## License
-
-This project is licensed under the MIT License.
